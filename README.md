@@ -6,7 +6,7 @@ A small, simple yet powerful script which will watch a folder (or folders recurs
 
 * This script servers as an example of use case where you need to monitor a folder for incoming files and perform "action" on them. For example, you may need to create thumbnails for any image uploaded by a website user.
 * 1.0
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+
 
 ### How do I get set up? ###
 
