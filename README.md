@@ -21,7 +21,7 @@ A small, simple yet powerful script which will watch a folder (or folders recurs
     ```
     sudo apt-get install inotify-tools
     ```
-    * [Install azcopy azure utility](https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10#download-azcopy)
+    * [Install azcopy azure CLI utility](https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10#download-azcopy)
    
 * Deployment instructions   
     * start monitoring the folder   
