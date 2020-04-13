@@ -31,7 +31,7 @@ Often, there are requirements to monitor a folder for files, especially, when de
     sh startmonitoring.sh
     ```   
     Note that you can start monitoring using the inoticoming command as a daemon also.
-    Once any file ending wiht ```png``` extension comes to ```incoming``` folder, it will be copied to the azure blob storage and then moved to ```processed``` folder.
+    Once any file ending with ```png``` extension comes to ```incoming``` folder, it will be copied to the azure blob storage and then moved to ```processed``` folder.
 
 ### Contribution guidelines ###
 
