@@ -1,6 +1,8 @@
 # README #
 
 A small, simple yet powerful script which will watch a folder (or folders recursively) and move the incoming file with png extension to Azure blob storage.
+Often, there are requirements to monitor a folder for files, especially, when dealing with legacy applications in an enterprise kind of setup. This utility, taps into notifications from linux kernel, for events happening in the filesystem, via a piece of kernel called ```inotify```   
+
 
 ### What is this repository for? ###
 
